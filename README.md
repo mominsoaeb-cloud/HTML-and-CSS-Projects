@@ -1,2 +1,2 @@
 # HTML and CSS Projects
-## This is 
+## This file contains Learning and project file from Pitman Course.
