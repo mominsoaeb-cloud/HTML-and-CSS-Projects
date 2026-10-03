@@ -1,0 +1,28 @@
+/* Navigation Container */
+.navbar ul {
+  /* Layout: Places items in a single horizontal line and centers them */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px; /* Space between each navigation item */
+
+  /* Remove default list styling */
+  list-style-type: none;
+  margin: 0;
+  padding: 15px 0;
+}
+
+/* Navigation Links Styling */
+.navbar a {
+  text-decoration: none; /* Removes underline */
+  color: #333;           /* Dark text color */
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  transition: color 0.3s ease;
+}
+
+/* Hover Effect for Links */
+.navbar a:hover {
+  color: #007bff; /* Color changes when hovered */
+}
