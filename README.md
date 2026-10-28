@@ -2,8 +2,8 @@
   This is display of sample website made using HTML and CSS.
 
 # Projects
-  Space Station
-  Movie Theatre
+  1.  Space Station
+  2.  Movie Theatre
 
 # Space Station
   This is example of Space station site using HTML and CSS which includes navbar gallary submit form 
